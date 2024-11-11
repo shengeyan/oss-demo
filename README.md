@@ -1,3 +1,19 @@
+# 前端 Demo 说明文档
+
+## 技术栈
+
+React + TS + SCSS + Axios
+
+## 项目结构
+
+└─src
+├─api
+│ └─demo // 接口文件
+│ └─axios.ts axios 配置文件
+├─assets
+└─view
+└─Dome // Demo 页面
+
 # 后端 Demo 说明文档
 
 ## 技术栈
